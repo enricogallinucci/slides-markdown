@@ -1,0 +1,198 @@
+# BIG DATA
+
+# [CSE] Big Data[DTM] Big Data and Cloud Platforms
+
+Enrico Gallinucci – University of Bologna
+
+# About us
+
+* [Matteo Francia](https://www.unibo.it/sitoweb/m.francia/en)\, Ph\.D\.
+  * Junior Assistant Professor
+  * Teacher for
+    * DTM \(Module 2\) \[main teacher\]
+
+* [Enrico Gallinucci](https://www.unibo.it/sitoweb/enrico.gallinucci/en)\, Ph\.D\.
+  * Junior Assistant Professor
+  * Teacher for
+    * CSE \(Modules 1 & 2\) \[main \(and only\) teacher\]
+    * DTM \(Module 1\)
+
+![](img%5CBigData%200%20Course%20intro0.png)
+
+![](img%5CBigData%200%20Course%20intro1.jpg)
+
+* Members of the [Business Intelligence Group](https://big.csr.unibo.it/)
+* __CONTACT US FOR __  __THESIS OPPORTUNITIES__
+
+![](img%5CBigData%200%20Course%20intro2.png)
+
+![](img%5CBigData%200%20Course%20intro3.png)
+
+Enrico Gallinucci – University of Bologna
+
+# Program
+
+* \[CSE\+DTM Module 1\] Theoretical background on Big Data \(20 hours\)
+  * HW infrastructures\, SW architectures
+  * Data structures \(Parquet\) and storage services \(DFS\, NoSQL\)
+  * Batch applications: MapReduce programming paradigm\, Apache Spark\, SQL\-on\-Hadoop
+  * Streaming algorithms and applications
+* \[CSE Module 2\] In\-depth practice \+ Big Data in the Cloud \(30 hours\)
+  * Main focus: hands\-on Apache Spark applications and non\-trivial Map Reduce programming
+* \[DTM Module 2\] Handling Big Data in the Cloud \+ guided practice \(30 hours\)
+  * Main focus: cloud platforms\, including taxonomies\, billing models\, on\-prem vs cloud
+  * Industrial seminars \(CSE students invited\)
+
+Enrico Gallinucci – University of Bologna
+
+# Technologies
+
+* Virtual lab
+  * Hosted by AWS Academy
+  * $100 credit \(renewable\, no credit card required\)
+* Main applications
+  * Apache Hadoop
+  * Apache Spark
+    * Core
+    * SQL
+    * Streaming
+  * Apache Kafka
+* Programming language
+  * \[CSE\] Scala
+  * \[DTM\] Python
+
+![](img%5CBigData%200%20Course%20intro4.png)
+
+![](img%5CBigData%200%20Course%20intro5.png)
+
+![](img%5CBigData%200%20Course%20intro6.png)
+
+![](img%5CBigData%200%20Course%20intro7.jpg)
+
+Enrico Gallinucci – University of Bologna
+
+# Do it now!
+
+Subscribe to the course on Virtuale
+
+[Link for CSE](https://virtuale.unibo.it/course/view.php?id=50575)
+
+[Link for DTM](https://virtuale.unibo.it/course/view.php?id=42087)
+
+Any important information \(e\.g\.\, changes in the schedule\, thesis opportunities\) will be sent through Virtuale
+
+<span style="color:#FF0000">\[CSE\] Invitations to AWS Academy will be sent this afternoon\, based on subscriptions</span>
+
+Enrico Gallinucci – University of Bologna
+
+# Schedule
+
+| Week | Lab 3.3     Tuesday      9:00-12:00 | Room 2.6   Wednesday  9:00-11:00 | Lab 3.1  Wednesday 11:00-13:00 |
+| :-: | :-: | :-: | :-: |
+| Sep 18-24 | CSE+DTM | CSE+DTM | CSE |
+| Sep 25-Oct 01 | CSE+DTM | CSE+DTM | CSE |
+| Oct 02-08 | CSE+DTM | CSE+DTM | CSE |
+| Oct 09-15 | CSE | CSE+DTM | CSE |
+| Oct 16-22 | CSE | CSE+DTM | CSE |
+| Oct 23-29 | --- | CSE+DTM | CSE |
+| Oct 30-Nov 05 | CSE | --- | --- |
+| Nov 06-12 | CSE | CSE | CSE |
+| Nov 13-19 | DTM | DTM | DTM |
+| Nov 20-26 | DTM | DTM | DTM |
+| Nov 27-Dec 03 | DTM | DTM | DTM |
+| Dec 04-10 | DTM seminar? | DTM | DTM |
+| Dec 11-17 | CSE seminar? | DTM | DTM |
+| Dec 18-24 | ??? | ??? | ??? |
+
+* Hours
+  * Tuesday\, 09:00 \- 12\.00 @Lab 3\.3
+  * Wednesday\, 09:00 \- 11:00 @Room 2\.6
+  * Wednesday\, 11:00 \- 13:00 @Lab 3\.1
+* <span style="color:#FF0000">Warning</span>
+  * Schedule is likely to change
+  * In such case\, communications will be sent
+* No classes on
+  * October 24 \(DTM internships\)
+  * November 1 \(All Saints holiday\)
+* <span style="color:#FF0000">Office hours</span>
+  * By appointment
+
+Enrico Gallinucci – University of Bologna
+
+# Exam DTM: oral examination
+
+* Questions on all \(theoretical and practical\) aspects of the course
+  * A single session with both teachers
+  * Exam covers both modules
+  * Seminars are included
+  * Interaction during the lectures/labs is considered in the final evaluation
+* According to the University's regulation
+  * Exams must be in presence
+  * Cannot refuse a grade more than once
+* No scheduled dates\, just come when you are ready
+  * Send an email to [enrico\.gallinucci@unibo\.it](mailto:enrico.gallinucci@unibo.it) to book an appointment
+  * At least a week in advance
+* Be prepared: if you fail or refuse\, you will have to wait 1 month to try again
+
+Enrico Gallinucci – University of Bologna
+
+# Exam CSE: project + oral examination
+
+* Project
+  * Mandatory
+    * <span style="color:#FF0000">Must be pre\-arranged with the teacher</span>
+    * Groups allowed\, up to 2 people
+    * Guidelines to be published on Virtuale
+  * _vote\(project\) _  _∈_  _ \[0\,2\]_
+  * Once discussed\, the points for the project are non\-negotiable
+* Oral
+  * Discussion of project
+  * Questions on all \(theoretical and practical\) aspects of the course
+  * No scheduled dates\, just come when you are ready \(after finishing the project\)
+  * _vote\(oral\) _  _∈_  _ \[0\,30\]_
+* Final vote: vote\(project\) \+ vote\(oral\)
+
+Enrico Gallinucci – University of Bologna
+
+# Exam CSE: project details
+
+* Find a suitable dataset
+  * One or more tables/collections of data
+  * Overall\, in the order of GBs
+* Write a notebook \(in Scala\) "narrating" an analysis session
+  * Potential pre\-processing
+  * One or more analytical batch jobs
+    * Demonstrate performance tuning
+  * Check and discuss results \(possibly with PowerBI\)
+  * No report necessary \(the notebook  _is _ the report\)
+* Evaluation
+  * 0 for sufficient projects
+  * Points based on technical complexity\, performance evaluation\, and creativity
+
+Enrico Gallinucci – University of Bologna
+
+# References
+
+* Hadoop and Spark
+  * __Learning Spark\. Lightning\-Fast Data Analytics \(2nd edition\)__ Jules S\. Damji\, Brooke Wenig\, Tathagata Das\, and Denny Lee; O'Reilly\, 2020
+  * __Hadoop\. The Definitive Guide \(4th edition\)__ Tom White; O'Reilly\, 2015
+  * __Spark: The Definitive Guide\. Big Data Processing Made Simple__ Bill Chambers and Matei Zaharia; O'Reilly\, 2018
+* Algorithms and architectures
+  * __Designing Data\-Intensive Applications\. The big ideas behind reliable\, scalable\, and maintainable systems__ Martin Kleppmann; O'Reilly\, 2017
+  * __Architecting Modern Data Platforms\. A guide to enterprise Hadoop at scale__ Jan Kunigk\, Ian Buss\, Paul Wilkinson\, and Lars George; O'Reilly\, 2019
+  * __Mining of Massive Datasets \(2nd edition\)__ Jure Leskovec\, Anand Rajaraman\, and Jeffrey D\. Ullman; Cambridge University Press\, 2014
+
+Enrico Gallinucci – University of Bologna
+
+* Streaming
+  * __Streaming Data \- Understanding the real\-time pipeline__ Andrew G\. Psaltis; Manning\, 2017
+  * __Streaming Systems\. The What\, Where\, When\, and How of Large\-Scale Data Processing__ Tyler Akidau\, Slava Chernyak\, and Reuven Lax; O'Reilly\, 2018
+* Cloud
+  * __Cloud Computing for Science and Engineering__ Ian Foster\, Dennis Gannon; MIT Press\, 2017
+  * __Designing Cloud Data Platforms__ Zburivsky\, Danil\, Lynda Partner; Simon and Schuster\, 2021
+* NoSQL
+  * __Database Internals\. A Deep Dive into How Distributed Data Systems Work__ Alex Petrov; O'Reilly\, 2019
+  * __Next Generation Databases\. NoSQL\, NewSQL\, and Big Data__ Guy Harrison; Apress\, 2015
+
+Enrico Gallinucci – University of Bologna
+
